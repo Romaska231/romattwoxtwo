@@ -1,11 +1,9 @@
 {
-    "RopeEnable": false,
-    "RopeLang": ["Russian"],
-    "RopeTime": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "RopeEnable": true,
+    "RopeLang": ["Portuguese"],
+    "RopeTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
     "RopeLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Portuguese", "Links": ["https://1wfwna.life/casino/list?open=register&p=91lq"]}
     ]
  }
