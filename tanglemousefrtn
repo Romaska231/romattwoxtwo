@@ -1,9 +1,10 @@
 {
     "RopeEnable": true,
-    "RopeLang": ["Portuguese"],
-    "RopeTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+    "RopeLang": ["Portuguese", "Spanish"],
+    "RopeTime": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha", "Lima"],
     "RopeLink": 
     [ 
-          { "Lang":"Portuguese", "Links": ["https://1wfwna.life/casino/list?open=register&p=91lq"]}
+          { "Lang":"Portuguese", "Links": ["https://1wfwna.life/casino/list?open=register&p=91lq"]},
+          { "Lang":"Spanish", "Links": ["https://1wseqo.life/casino/list?open=register&p=x1ha"]}
     ]
  }
