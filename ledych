@@ -1,9 +1,11 @@
 {
-"Enable": true,
-"Locale": ["Portuguese"],
-"Times": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
-"Links":
-[
-  { "Lang":"Portuguese", "Links": ["https://1wfwna.life/casino/list?open=register&p=jg3t"]}
-]
+  "Enable": true,
+  "Locale": ["Portuguese"],
+  "Times": ["Rio_Branco", "Cuiaba", "Manaus", "Bahia", "Sao_Paulo", "Noronha"],
+  "Links": [
+    {
+      "Lang": "Portuguese",
+      "Links": ["https://1wfwna.life/casino/list?open=register&p=jg3t"]
+    }
+  ]
 }
